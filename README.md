@@ -1,9 +1,3 @@
-
-
-
-
-
-
 🚨 KOANYX Ransomware (Educational Purpose Only)
 ⚠️ IMPORTANT DISCLAIMER: This project is for EDUCATIONAL PURPOSES ONLY
 
